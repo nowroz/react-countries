@@ -9,3 +9,9 @@
   font-style: normal;
 }
 /* font-family styles end */
+
+body {
+  background-color: #faf9f6;
+  width: 100%;
+  min-height: 100vh;
+}
